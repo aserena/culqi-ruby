@@ -18,7 +18,7 @@ require 'culqi/transfer'
 
 module Culqi
 
-  API_BASE = 'https://api.culqi.com/v2'
+  API_BASE = 'https://secure.culqi.com/v2'
   READ_TIMEOUT = 120
   LIST_TIMEOUT = 360
 
